@@ -14,7 +14,8 @@ export default {
     nl: 'Magiër',
     it: 'Mago',
     ht: 'Mage',
-    pl: 'Mag'
+    pl: 'Mag',
+    ro: 'Magician',
   },
   // Class description, visible during character creation
   description: {
@@ -32,5 +33,6 @@ export default {
     it: 'I maghi infliggono danni di Area of ​​Effect molto pesanti su larga scala, fornendo anche utilità attraverso il rallentamento degli obiettivi con la loro magia basata sul ghiaccio.',
     ht: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
     pl: 'Magowie zadają bardzo duże obrażenia obszarowe na dużą skalę, dostarczając jednocześnie narzędzia poprzez spowalnianie celów za pomocą magii opartej na lodzie.'
+    ro: 'Magicienii cauzează daune considerabile la scară largă, fiind în același timp folositori prin încetinirea țintelor cu ajutorul magiei lor pe bază de gheață.'
   }
 }
